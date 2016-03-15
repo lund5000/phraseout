@@ -1,0 +1,16 @@
+{
+  "name": "phraseout",
+  "version": "0.1.0",
+  "description": "Generate passwords from parts of speech.",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.0",
+    "jade": "^1.11.0",
+    "lodash": "^4.6.1",
+    "q": "^1.4.1"
+  },
+  "author": "Steve Lund <lund5000@gmail.com>",
+  "license": "MIT"
+}
